@@ -26,6 +26,7 @@ Project structures and life cycles are fundamental cornerstones of successful pr
 <br>
 <strong>Closing the Project:</strong>Deliver the final product, evaluate success, and formally end the project.
 <br>
+
 # company culture effect on project management
 <br>
 Understanding the company culture allows project managers to navigate the organization effectively, leading to better communication, collaboration, and ultimately, project success.In this section highlights how company culture impacts project management in several ways:
