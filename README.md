@@ -5,7 +5,7 @@ This course describe about the basic of project management, which cover the topi
 <br>
 Project management learning equips individuals with the skills and knowledge to effectively plan, organize, and lead projects to successful completion, on time, within budget, and meeting all quality standards. It fosters efficiency, minimizes risks, and ensures smooth collaboration within teams.
 
-# project manager
+# Project Manager
 <br>
 firstly , this course discuss about the role of the project manager. He  play a crucial role in project management, serving as leaders responsible for planning, executing, and closing projects. They are like - 
 <br>
@@ -16,7 +16,7 @@ firstly , this course discuss about the role of the project manager. He  play a 
 <strong>Quality Management:</strong> Implement processes for quality assurance and control to deliver a high-quality final product.<br>
 <strong>Quality Management & Budget Management:</strong> Project managers work on budget development, estimating costs and allocating resources appropriately.<br>
 
-# project structures and life cycles
+# Project Structures and Life Cycles
 <br>
 Project structures and life cycles are fundamental cornerstones of successful project management. They provide a framework for organizing teams, tasks, and deliverables, and guide the project through its various stages from inception to completion. The two most popular methodologies - Waterfall and Agile - are presented alongside DMAIC as a tool for process improvement. <br>
 <strong>Initiating the Project:</strong>Define project objectives, scope, and stakeholdersand establish project feasibility and gain approval.
@@ -27,7 +27,7 @@ Project structures and life cycles are fundamental cornerstones of successful pr
 <strong>Closing the Project:</strong>Deliver the final product, evaluate success, and formally end the project.
 <br>
 
-# company culture effect on project management
+# Company Culture Effect on Project Management
 <br>
 Understanding the company culture allows project managers to navigate the organization effectively, leading to better communication, collaboration, and ultimately, project success.In this section highlights how company culture impacts project management in several ways:
 <br>
@@ -133,8 +133,6 @@ Effective communication is emphasized as a crucial aspect of project management,
 
 
 <br>
-
-<bold> </bold>
  <strong>Importance of Project Budgeting: </strong>Secures future funding through responsible resource allocation, critical for success, communicates resource needs, and adapts to project changes and unforeseen costs.
 <br>
  <strong>Creating a Project Budget: </strong> Initial estimate uses historical data, cost breakdown identifies components, milestones link budget items, contingency planning accounts for unexpected expenses, and baseline setting establishes a progress reference point.
