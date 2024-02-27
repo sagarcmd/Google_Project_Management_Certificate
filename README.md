@@ -70,32 +70,32 @@ Effective communication and cooperation with many groups of participants, referr
 <br>
 Setting SMART goals and defining clear success criteria are essential for effective project management. The key is to practice and refine these skills to ensure successful planning and execution. Here some points i can learn from this: <br>
 <bold> </bold>
-<bold> Define Specific and Measurable Goals:</bold> Apply the S.M.A.R.T. method: Specific, Measurable, Achievable, Relevant, Time-bound. Answer key questions: Who, What, Why, When. Track progress to measure impact against well-defined goals.
+<strong> Define Specific and Measurable Goals:</strong> Apply the S.M.A.R.T. method: Specific, Measurable, Achievable, Relevant, Time-bound. Answer key questions: Who, What, Why, When. Track progress to measure impact against well-defined goals.
 <br>
-<bold>Choose Accurate Metrics: </bold> Set realistic goals using relevant data, balancing attainability with ambition to avoid demotivation.
+<strong>Choose Accurate Metrics: </strong> Set realistic goals using relevant data, balancing attainability with ambition to avoid demotivation.
 <br>
-<bold>Define Project Scope:</bold> Detail scope with target audience, complexity, timeline, budget, and resources. Regularly review and adjust to stay on track. Clearly manage project boundaries and expectations.
+<strong>Define Project Scope:</strong> Detail scope with target audience, complexity, timeline, budget, and resources. Regularly review and adjust to stay on track. Clearly manage project boundaries and expectations.
 <br>
-<bold>Manage Scope Creep: </bold> Ensure stakeholder visibility, set clear expectations, define processes before approval, understand project details, and maintain boundaries.
+<strong>Manage Scope Creep: </strong> Ensure stakeholder visibility, set clear expectations, define processes before approval, understand project details, and maintain boundaries.
 <br>
-<bold> Prioritize and Adapt:</bold> Apply triple constraint model (scope, time, cost) to assess changes. Understand priorities, make informed decisions, consult stakeholders for significant changes' approval.
+<strong> Prioritize and Adapt:</strong> Apply triple constraint model (scope, time, cost) to assess changes. Understand priorities, make informed decisions, consult stakeholders for significant changes' approval.
 <br>
-<bold>Define Success Criteria: </bold> Prioritize measurements, deliverables, budget, and schedules while establishing quantifiable success criteria. Make sure the expectations of the stakeholders are clear. Monitor progress all the way through the project's life cycle.
+<strong>Define Success Criteria: </strong> Prioritize measurements, deliverables, budget, and schedules while establishing quantifiable success criteria. Make sure the expectations of the stakeholders are clear. Monitor progress all the way through the project's life cycle.
 <br>
 
 # Risk Management
 <br>
 Risk management is the process of recognizing and assessing possible risks and problems, dealing with them on a regular basis, and developing strategies to lessen their effects. It also emphasizes how crucial it is to plan ahead, record decisions made during risk assessment, and notify stakeholders of hazards in an efficient manner. Project managers can guarantee the success of their projects, feel more confident when problems arise, and better prepare for the unknown by practicing risk management. <br>
 <bold> </bold>
-<bold> Benefits of Risk Management:</bold> Prevents failure, achieves goals and timelines, increases flexibility for adjustments, and reduces the impact of issues by focusing on project benefits.
+<strong> Benefits of Risk Management:</strong> Prevents failure, achieves goals and timelines, increases flexibility for adjustments, and reduces the impact of issues by focusing on project benefits.
 <br>
-<bold> Identifying and Assessing Risks:</bold> Brainstorm for risk ideas without judgment. Assess risks by estimating likelihood and impact. Prioritize using a probability and impact matrix.
+<strong> Identifying and Assessing Risks:</strong> Brainstorm for risk ideas without judgment. Assess risks by estimating likelihood and impact. Prioritize using a probability and impact matrix.
 <br>
-<bold> Common Types of Risks:</bold> Likelihood (high/low). Impact: Severity (high/low). Consider time, budget, and scope risks. External risks are beyond control (e.g., environmental, legal). Identify and address single points of failure.
+<strong> Common Types of Risks:</strong> Likelihood (high/low). Impact: Severity (high/low). Consider time, budget, and scope risks. External risks are beyond control (e.g., environmental, legal). Identify and address single points of failure.
 <br>
-<bold> Mitigating Risks:</bold> Reduce the risk of single points of failure by using redundancy or backups. To avoid delays, make a plan for job dependencies. Consider and foresee dangers in a proactive manner.
+<strong> Mitigating Risks:</strong> Reduce the risk of single points of failure by using redundancy or backups. To avoid delays, make a plan for job dependencies. Consider and foresee dangers in a proactive manner.
 <br>
-<bold> Documenting and Communicating Risks: </bold>Make a documented strategic risk management plan. Keep a risk registry with a list of hazards and ways to mitigate them. To ensure transparency, distribute the plan to the relevant parties for alignment.
+<strong> Documenting and Communicating Risks: </strong>Make a documented strategic risk management plan. Keep a risk registry with a list of hazards and ways to mitigate them. To ensure transparency, distribute the plan to the relevant parties for alignment.
 <br>
 
 
@@ -103,13 +103,13 @@ Risk management is the process of recognizing and assessing possible risks and p
 
  Benefits of project planning, including mapping out the project's full scope, understanding the requirements, coordinating efforts and timelines, identifying risks, and achieving the project goals. The importance of a project kickoff meeting is also emphasized, as it helps establish a shared vision, gain unity, and understand each team member's role. <br>
 <bold> </bold>
-<bold>Importance of Planning: </bold> The project manager lays out tasks and objectives, plans and schedules to ensure efficient execution, recognizes and anticipates hazards, secures team support with a well-defined strategy, and fosters cooperation to improve collaboration.
+<strong>Importance of Planning: </strong> The project manager lays out tasks and objectives, plans and schedules to ensure efficient execution, recognizes and anticipates hazards, secures team support with a well-defined strategy, and fosters cooperation to improve collaboration.
 <br>
-<bold> Project Kickoff Meeting:</bold>Project manager establishes a shared vision for team unity, defines roles using a RACI chart for clear ownership, communicates a high-level project plan to inform stakeholders, laying the foundation for collaborative and organized success.
+<strong> Project Kickoff Meeting:</strong>Project manager establishes a shared vision for team unity, defines roles using a RACI chart for clear ownership, communicates a high-level project plan to inform stakeholders, laying the foundation for collaborative and organized success.
 <br>
-<bold> Setting Milestones:</bold> Project managers set important milestones to monitor progress, ensure timely delivery, inspire team members with a sense of achievement, educate stakeholders of developments, and handle the fallout from missed deadlines by resolving any delays and adjusting resources.
+<strong> Setting Milestones:</strong> Project managers set important milestones to monitor progress, ensure timely delivery, inspire team members with a sense of achievement, educate stakeholders of developments, and handle the fallout from missed deadlines by resolving any delays and adjusting resources.
 <br>
-<bold> Setting Deadlines and Assigning Tasks:</bold>Project manager schedules deliverables, estimates task durations, integrates stakeholder needs, leverages work breakdown structures for complex projects, and assigns tasks effectively, fostering ownership and motivation.
+<strong> Setting Deadlines and Assigning Tasks:</strong>Project manager schedules deliverables, estimates task durations, integrates stakeholder needs, leverages work breakdown structures for complex projects, and assigns tasks effectively, fostering ownership and motivation.
 <br>
 project planning ensures a well-organized, efficient, and successful project execution by bringing clarity, structure, and collaboration to the process.
 <br>
@@ -118,13 +118,13 @@ project planning ensures a well-organized, efficient, and successful project exe
 
 Effective communication is emphasized as a crucial aspect of project management, involving the flow of clear, honest, relevant, and frequent information between all stakeholders.The importance of documentation and feedback gathering is discussed, as well as the use of various communication methods and frequency.a well-defined communication plan fosters clear and consistent communication throughout the project, leading to increased efficiency, stakeholder engagement, and ultimately, project success. <br> 
 <bold> </bold>
- <bold> Importance of Effective Communication:</bold> Communication is clear, honest, relevant, and frequent through tools like meetings, emails, calls, documents, and presentations, ensuring project success with on-time execution. This is a continuous process throughout the project lifecycle.
+ <strong> Importance of Effective Communication:</strong> Communication is clear, honest, relevant, and frequent through tools like meetings, emails, calls, documents, and presentations, ensuring project success with on-time execution. This is a continuous process throughout the project lifecycle.
 <br> 
- <bold> Communication Plan Benefits:</bold> Project success boosts efficiency, facilitates change management, maintains continuity in project knowledge, keeps stakeholders engaged, and motivates the team.
+ <strong> Communication Plan Benefits:</strong> Project success boosts efficiency, facilitates change management, maintains continuity in project knowledge, keeps stakeholders engaged, and motivates the team.
 <br> 
- <bold> Creating a Communication Plan:</bold> Define communication details: What, who, when, how, why, where. Tailor based on audience: frequency, method, content.
+ <strong> Creating a Communication Plan:</strong> Define communication details: What, who, when, how, why, where. Tailor based on audience: frequency, method, content.
 <br> 
- <bold>Key Components of a Plan: </bold> Key dates for events, choose delivery methods based on preferences (email, in-person, virtual), use feedback mechanisms like emails and surveys for improvement, and store project plans and reports centrally with clear access and permissions.
+ <strong>Key Components of a Plan: </strong> Key dates for events, choose delivery methods based on preferences (email, in-person, virtual), use feedback mechanisms like emails and surveys for improvement, and store project plans and reports centrally with clear access and permissions.
 <br> 
 
 #  Create a Project Budget
@@ -135,17 +135,17 @@ Effective communication is emphasized as a crucial aspect of project management,
 <br>
 
 <bold> </bold>
- <bold>Importance of Project Budgeting: </bold>Secures future funding through responsible resource allocation, critical for success, communicates resource needs, and adapts to project changes and unforeseen costs.
+ <strong>Importance of Project Budgeting: </strong>Secures future funding through responsible resource allocation, critical for success, communicates resource needs, and adapts to project changes and unforeseen costs.
 <br>
- <bold>Creating a Project Budget: </bold> Initial estimate uses historical data, cost breakdown identifies components, milestones link budget items, contingency planning accounts for unexpected expenses, and baseline setting establishes a progress reference point.
+ <strong>Creating a Project Budget: </strong> Initial estimate uses historical data, cost breakdown identifies components, milestones link budget items, contingency planning accounts for unexpected expenses, and baseline setting establishes a progress reference point.
 <br>
- <bold>Managing and Monitoring a Budget: </bold> Ensure accurate cost control with regular updates, proactive communication avoids budget surprises, balance cost efficiency with project goals, and refine budgeting strategies based on past project learnings.
+ <strong>Managing and Monitoring a Budget: </strong> Ensure accurate cost control with regular updates, proactive communication avoids budget surprises, balance cost efficiency with project goals, and refine budgeting strategies based on past project learnings.
 <br>
 
- <bold> Procurement and Vendor Management:</bold>
+ <strong> Procurement and Vendor Management:</stronog>
 Five steps: Initiating, selecting, contracting, controlling, completing. Choose Agile or traditional procurement based on adaptability. Foster positive vendor relationships with clear communication. Use key documents like NDAs, RFPs, and SOWs for clarity.
 <br>
- <bold> Legal and Ethical Considerations:</bold>
+ <strong> Legal and Ethical Considerations:</strong>
 Compliance ensures project success, involving legal teams mitigates risks, ethical vendor selection evaluates labor practices, and monitoring ensures alignment with ethical standards.
 
 <br>
