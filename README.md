@@ -142,60 +142,114 @@ Effective communication is emphasized as a crucial aspect of project management,
  <strong>Managing and Monitoring a Budget: </strong> Ensure accurate cost control with regular updates, proactive communication avoids budget surprises, balance cost efficiency with project goals, and refine budgeting strategies based on past project learnings.
 <br>
 
- <strong> Procurement and Vendor Management:</stronog>
-Five steps: Initiating, selecting, contracting, controlling, completing. Choose Agile or traditional procurement based on adaptability. Foster positive vendor relationships with clear communication. Use key documents like NDAs, RFPs, and SOWs for clarity.
+ <strong> Procurement and Vendor Management:</stronog> Five steps: Initiating, selecting, contracting, controlling, completing. Choose Agile or traditional procurement based on adaptability. Foster positive vendor relationships with clear communication. Use key documents like NDAs, RFPs, and SOWs for clarity.
 <br>
- <strong> Legal and Ethical Considerations:</strong>
-Compliance ensures project success, involving legal teams mitigates risks, ethical vendor selection evaluates labor practices, and monitoring ensures alignment with ethical standards.
+ <strong> Legal and Ethical Considerations:</strong> Compliance ensures project success, involving legal teams mitigates risks, ethical vendor selection evaluates labor practices, and monitoring ensures alignment with ethical standards.
 
 <br>
 
 
 
+# Leadership vs Management In a Successful Team
+
+<br>
+
+Effective project managers create a safe environment, communicate clearly, delegate tasks, celebrate successes, and lead ethically. They understand team members' skills, encourage open communication, and foster positive teamwork. To influence others, establish credibility, find common ground, provide evidence, and connect emotionally, avoiding aggression and resistance. Power sources include personal traits and organizational roles, knowledge, expressiveness, history, character, role, information, network, and reputation. Identifying and using these sources makes a project manager an influential leader.
 
 
+<br>
+
+<strong>Importance of Teamwork: </strong>  Maximizes strengths, fosters creativity, enhances accountability, and efficiently manages complex projects for successful completion.
+
+<br>
+<strong>Five Key Factors for Effective Teams: </strong> Psychological safety for risk-taking, dependability with clear communication, structure, and clarity in roles, meaning in work, and impact through individual contributions.
+
+<br>
+<strong>Project Manager's Role in Leading Teams: </strong>Effective communication, promoting trust, demonstrating empathy, motivating through inspiration and effective delegation, and celebrating success are key leadership actions.
+<br>
+
+<strong>Stages of Team Development: </strong> Forming: Set goals and roles. Storming: Resolve conflicts. Norming: Establish collaboration norms. Performing: Work cohesively. Adjourning: Wrap up and acknowledge accomplishments.
+
+<br>
+<strong>Managing Team Dynamics: </strong> Recognize individual differences, build collaboration, practice ethical and inclusive leadership, provide equal opportunities, and recognize diverse voices for belonging and empowerment.
+<br>
+
+<strong> Influencing and Leading Others:</strong> Build trust through credibility, identify shared goals, provide evidence with data, and connect emotionally for effective leadership.
+<br>
+
+# How and When to Close a Project
+
+<br>
+
+Proper project closing ensures a successful and complete project lifecycle, while fostering positive stakeholder relationships and laying the foundation for future project improvement.
+
+<br>
+
+<strong>Importance of Project Closing: </strong> Satisfy stakeholders, ensure smooth handoff, and avoid abandoned projects for proper completion and cost control.
+
+<br>
+<strong> Project Closing Activities:</strong> Milestone closure after phases or achievements, formal closure at project completion with activities like reviewing documentation, administrative tasks, retrospectives, impact reports, and a closeout report for knowledge transfer and future reference.
+
+<br>
+<strong>Project Closeout Report: </strong> Project closure document includes an executive summary, key accomplishments, lessons learned, open items, next steps, project details, and an archive section for smooth transitions and knowledge transfer.
+<br>
+
+# Agile, Scrum, Scrum Master, and Agile Management 
+<br>
+
+<strong>Agile: </strong> An overall approach to software development that emphasizes flexibility, continuous improvement, and collaboration.
+<br>
+
+<strong>Scrum: </strong> A specific framework within Agile that uses short development periods called sprints (typically 1-4 weeks).
+<br>
+
+<strong> Scrum Master:</strong> A facilitator who guides the team using the Scrum framework. They help remove roadblocks, ensure everyone stays focused, and keep the project moving smoothly.
+<br>
+
+<strong> Agile Management:</strong> The application of Agile principles and practices to manage software development projects.
+
+<br>
 
 
+# Planning Project & Negotiate with Stakeholders
 
 
+<br>
+
+It is imperative for project managers to prioritize their negotiating abilities by doing analysis to comprehend the interests, influence levels, communication preferences, and priorities of stakeholders. Negotiation skills that are useful include forging alliances, establishing rapport, and coming up with win-win solutions. These procedures, when paired with SMART goals, guarantee successful project execution and efficient stakeholder communication.
+
+<br>
+
+<strong>SMART Goals: </strong>  SMART goals are Specific - clearly defined, Measurable -include tracking numbers, Attainable - achievable with resources, Relevant -essential for the company or project team, and Time-bound -include a deadline.
+<br>
+<strong>Stakeholder Alignment: </strong> Project charter defines scope -project boundaries, benefits -expected gains, and costs -money spent. Alignment ensures stakeholder understanding and agreement on project value.
+<br>
+<strong>Negotiation and Stakeholders: </strong> Negotiate project scope, expenses, benefits, schedule, success criteria, roles, responsibilities, and resources. Use a power-interest grid for stakeholder analysis. Prioritize stakeholder needs, employ negotiating strategies, and find common advantages to resolve disputes.
+<br>
+<strong> Influencing Stakeholders:</strong> View stakeholders as colleagues, understand their perspectives, and seek mutual benefits. Prioritize project aspects with stakeholder analysis based on the "triple constraint" model. Form coalitions for common goals, identify influential stakeholders, and explain issues clearly when seeking support. Leverage their power or interests during stakeholder analysis. For effective influencing, establish credibility, find common ground, provide evidence, and connect emotionally.
 
 
+<br>
+
+# Determining Project's Success
+
+<br>
+
+Effective project management requires establishing quality standards, evaluating progress, and learning from past experiences through retrospectives. This ensures project success and continuous improvement.
+
+<br>
+
+<strong>Quality Management: </strong>  Ensures delivering a high-quality product/service, reducing costs, and promoting collaboration.
+<br>
+<strong>Evaluating Project Success:  </strong> Evaluate project performance for improvements and decision-making. Ask questions about what's working, measure results, and use indicators like customer ratings to inform future actions.
+<br>
+<strong>Collecting Data and Reporting: </strong> Use surveys to gather stakeholder data, with open-ended questions for detailed feedback and closed-ended for specific points. Analyze trends and present key insights in clear reports or presentations.
+<br>
+<strong>Retrospectives: </strong> Reflect on project successes and failures to improve future processes. Foster a safe environment with confidentiality, project manager participation, and group brainstorming. Embrace accountability and maintain a positive discussion, handling negativity constructively.
+
+<br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Conclusion
+<br>
+Google's Project Management course is an extensive and easily navigable source on modern project management techniques. This course offers helpful insights and methods for managing projects successfully in today's changing environment, regardless of whether learners are novices or seasoned professionals looking to refresh their skills.
